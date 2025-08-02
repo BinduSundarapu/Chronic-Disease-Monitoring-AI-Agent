@@ -54,6 +54,11 @@ An intelligent medical AI agent built on IBM watsonx.ai that provides trustworth
 - IBM Vector Index pulls relevant answers from uploaded medical text
 - AI responds in simple, structured, and safe language
 
+## Screenshots
+![Setting up](https://github.com/BinduSundarapu/Chronic-Disease-Monitoring-AI-Agent/blob/main/images/setup.png?raw=true)
+![
+
+
 ## 📌 How to Run or Deploy
 - Log in to IBM Cloud Lite: https://cloud.ibm.com
 - Launch Watsonx.ai Studio
