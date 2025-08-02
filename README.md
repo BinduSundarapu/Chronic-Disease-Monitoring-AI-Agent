@@ -55,7 +55,7 @@ An intelligent medical AI agent built on IBM watsonx.ai that provides trustworth
 - AI responds in simple, structured, and safe language
 
 ## Screenshots
-![Setting up](https://github.com/BinduSundarapu/Chronic-Disease-Monitoring-AI-Agent/blob/main/images/setup.png?raw=true)
+[Settingup](https://github.com/BinduSundarapu/Chronic-Disease-Monitoring-AI-Agent/blob/main/setup.png)
 
 
 
