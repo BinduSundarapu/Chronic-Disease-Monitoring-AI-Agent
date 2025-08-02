@@ -79,7 +79,6 @@ An intelligent medical AI agent built on IBM watsonx.ai that provides trustworth
 - [CDC – Chronic Disease Info](https://www.cdc.gov/chronicdisease/index.htm)  
 - [IBM SkillsBuild](https://skillsbuild.org/)
 
-
 ## ⚖️ License
 This project is licensed under the MIT License.
 
