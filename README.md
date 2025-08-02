@@ -2,6 +2,8 @@
 ## 🏥 ChronicCare AI Assistant
 An AI-powered medical assistant designed to help users understand, manage, and monitor chronic diseases such as diabetes, hypertension, asthma, heart disease, and more. Built using IBM watsonx.ai with Retrieval-Augmented Generation (RAG) and IBM cloud tools, this agent delivers accurate, empathetic, and document-grounded healthcare guidance.
 
+![](https://github.com/BinduSundarapu/Chronic-Disease-Monitoring-AI-Agent/blob/main/ai.png)
+
 ## 🧩 Problem Statement
 Millions of people suffer from chronic illnesses without proper awareness or support. Many lack timely information about symptoms, medication, diet plans, risk factors, and preventive measures. This leads to complications, hospitalizations, and increased health costs.
 
