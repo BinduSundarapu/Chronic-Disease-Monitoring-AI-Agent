@@ -72,12 +72,13 @@ An intelligent medical AI agent built on IBM watsonx.ai that provides trustworth
 - 📈 Monthly chronic health progress reports
 - 📘 Disease-specific modules (e.g., for CKD, arthritis, etc.)
 
-## 🔗 Useful Links
-- IBM Cloud
-- Watsonx.ai Studio Docs
-- WHO – Chronic Illness
-- CDC – Chronic Disease Info
-- IBM SkillsBuild
+## 🔗 Useful Links 
+- [IBM Cloud](https://www.ibm.com/cloud)  
+- [Watsonx.ai Studio Docs](https://www.ibm.com/docs/en/watsonx)  
+- [WHO – Chronic Illness](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)  
+- [CDC – Chronic Disease Info](https://www.cdc.gov/chronicdisease/index.htm)  
+- [IBM SkillsBuild](https://skillsbuild.org/)
+
 
 ## ⚖️ License
 This project is licensed under the MIT License.
