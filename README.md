@@ -12,7 +12,7 @@ An intelligent medical AI agent built on IBM watsonx.ai that provides trustworth
 
 ## 🧠 Technologies Used
 - 🧠 IBM Watsonx.ai Studio
-- 🧬 LLaMA 3-3-70B Instruct Model
+- 🧬 mistral - large Instruct Model
 - 📚 Vector Index for RAG (Retrieval-Augmented Generation)
 - 📝 Medical data from curated .txt file
 - 🧠 Natural Language Processing
@@ -20,7 +20,7 @@ An intelligent medical AI agent built on IBM watsonx.ai that provides trustworth
 
 ## ☁️ IBM Cloud Services Used
 - IBM Watsonx.ai Studio
-- LLaMA 3-3-70B Instruct Model
+- mistral - large Instruct Model
 - Watsonx Vector Index
 - IBM Cloud Lite Account
 - IBM IAM & Deployment Spaces
@@ -52,7 +52,7 @@ An intelligent medical AI agent built on IBM watsonx.ai that provides trustworth
 
 ## 🚀 How It Works
 - User types a question (e.g., “How to prevent diabetes complications?”)
-- LLaMA 3 LLM interprets the intent
+- LLaMA 3 LLM ,mistral - large interprets the intent
 - IBM Vector Index pulls relevant answers from uploaded medical text
 - AI responds in simple, structured, and safe language
 
